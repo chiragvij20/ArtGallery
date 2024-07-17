@@ -2,7 +2,7 @@
   "name": "art-gallery",
   "version": "1.0.0",
   "description": "Art Gallery built with Parcel",
-  "homepage": "https://gautamjain0909.github.io/Art-Gallery",
+  "homepage": "https://chiragvij20.github.io/ArtGallery",
   "scripts": {
     "start": "parcel index.html",
     "prebuild-dev": "shx rm -rf dist/*",
